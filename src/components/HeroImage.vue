@@ -12,7 +12,7 @@ export default {
 .container {
     border: solid gray 1px;
     max-width: 100%;
-    height: 350px;
+    height: 500px;
     background-color: #E5E5E5;
 
     display: flex;

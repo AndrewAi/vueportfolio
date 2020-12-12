@@ -35,14 +35,14 @@ export default {
 
     display: flex;
     flex-direction: column;
-    padding-left: 50px;
+    padding-left: 150px;
 
     /*font-family: "Times New Roman", sans-serif;*/
     font-style: normal;
     font-weight: normal;
-    font-size: 40px;
-    line-height: 60px;
-    text-align: center;
+    font-size: 30px;
+    line-height: 50px;
+    /*text-align: center;*/
     text-decoration-line: underline;
 }
 
@@ -57,7 +57,7 @@ export default {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: normal;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 35px;
     color: #B58E58;
 }

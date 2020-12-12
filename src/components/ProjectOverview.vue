@@ -2,7 +2,8 @@
     <div class="container">
         <div class="topSection">
             <div class="projectTitle">
-                UX Design Diploma Project: Fly UX Flight Booking App Design
+                UX Design Diploma Project:<br/>
+                Fly UX Flight Booking App Design
             </div>
             <div class="projectImage">Project Image</div>
         </div>
@@ -27,7 +28,7 @@ export default {
 <style scoped>
 .container {
     border: solid gray 1px;
-    height: 350px;
+    min-height: 350px;
     display: flex;
     flex-direction: column;
 }
