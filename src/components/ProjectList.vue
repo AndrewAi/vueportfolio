@@ -23,7 +23,6 @@
                 <img src="../assets/uxdilogo.png" class="projectImageMini">
                 <p>Drive Safe Road Safety App</p>
             </div>
-
         </div>
     </div>
 </template>
@@ -69,10 +68,19 @@ export default {
     flex: 3;
     /*border: solid grey 1px;*/
 
-    /*display: flex;*/
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.projectMiniList  p {
+    margin: auto;
+    text-align: center;
+    max-width: 140px;
+    margin-top: 20px;
 }
 
 .projectMiniTile {
@@ -84,7 +92,7 @@ export default {
     width: 150px;
     height: 150px;
     border-radius: 10%;
-    margin-bottom: 25px;
+    /*margin-bottom: 25px;*/
 }
 
 

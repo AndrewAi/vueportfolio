@@ -8,8 +8,8 @@
             <h1>Hi, I'm Andrew!</h1>
             <p>
                 With my experience as an app Developer and UX Designer I can
-                create solutions with a overall holistic approach, and keeping the users success is always my
-                No.1 priority.
+                create solutions with a overall holistic approach where the users is success always my
+                top priority.
             </p>
         </div>
     </div>
